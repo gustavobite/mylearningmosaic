@@ -2,6 +2,12 @@
 
 ### In this repo I will share all my studies / links related to subjects like development in iOS, Android, react-native and agile.
 
+### Android - 2019
+
+| Name | Link |
+| -- | --|
+| Exploring in-app updates on Android | https://medium.com/@hitherejoe/exploring-in-app-updates-on-android-57f1aee011cb
+
 ### React-Native - 2019
 
 | Name | Link |
